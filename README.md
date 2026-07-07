@@ -14,7 +14,7 @@ Building scalable, high-performance iOS & macOS applications with 3+ years of pr
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm a passionate **iOS Developer** with **3+ years of experience** building production-ready applications using **Swift, SwiftUI, UIKit and macOS technologies**.
 
@@ -24,7 +24,7 @@ I've contributed to multiple live App Store applications across smart locks, EV 
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ##  iOS Developer
 **AALA IT Solutions**
@@ -57,7 +57,7 @@ Worked on production iOS applications using Swift while collaborating with cross
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -105,25 +105,25 @@ Worked on production iOS applications using Swift while collaborating with cross
 
 ---
 
-# 📱 Live Projects
+# Live Projects
 
-## 🔑 5DKey
+## 5DKey
 
 Bluetooth-based smart access solution allowing users to unlock secure doors using encrypted digital credentials.
 
-📱 https://apps.apple.com/us/app/5dkey/id6463869995
+https://apps.apple.com/us/app/5dkey/id6463869995
 
 ---
 
-## 🔐 Verroo
+## Verroo
 
 Cloud-free Bluetooth smart lock application with secure digital key sharing and encrypted access management.
 
-📱 https://apps.apple.com/us/app/verroo/id1448896600
+https://apps.apple.com/us/app/verroo/id1448896600
 
 ---
 
-## ⚡ EmiratesEV
+## EmiratesEV
 
 Bilingual EV Charging & Marketplace application built using SwiftUI.
 
@@ -135,7 +135,7 @@ Features
 - Marketplace
 - User Profiles
 
-📱 https://apps.apple.com/us/app/emiratesev/id6755527523
+https://apps.apple.com/us/app/emiratesev/id6755527523
 
 ---
 
@@ -143,7 +143,7 @@ Features
 
 AI-powered PDF reader with Text-to-Speech support built using SwiftUI.
 
-📱 https://apps.apple.com/us/app/pdf-scanner-text-to-speech/id6747193594
+https://apps.apple.com/us/app/pdf-scanner-text-to-speech/id6747193594
 
 ---
 
@@ -158,7 +158,7 @@ Features
 - Analytics
 - Progress Tracking
 
-📱 https://apps.apple.com/us/app/habit-tracker-habinote/id6781785566
+https://apps.apple.com/us/app/habit-tracker-habinote/id6781785566
 
 ---
 
@@ -174,7 +174,7 @@ Features
 - Sleep
 - AI Coach
 
-📱 https://apps.apple.com/us/app/primefit-habits-weight-loss/id6759244969
+https://apps.apple.com/us/app/primefit-habits-weight-loss/id6759244969
 
 ---
 
@@ -188,7 +188,7 @@ Features
 - Same-Day Delivery
 - Sustainable Fashion
 
-📱 https://apps.apple.com/us/app/pickle-rent-lend-fashion/id1551736097
+https://apps.apple.com/us/app/pickle-rent-lend-fashion/id1551736097
 
 ---
 
@@ -203,11 +203,11 @@ Developed macOS functionality using
 - Command Line Tools
 - Shell Scripts
 
-🌍 https://www.testable.io
+https://www.testable.io
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -219,7 +219,7 @@ Developed macOS functionality using
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -229,7 +229,7 @@ Developed macOS functionality using
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -239,23 +239,23 @@ Developed macOS functionality using
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
-📧 **Email**
+**Email**
 
 malikafnanahmed678@gmail.com
 
-💼 **LinkedIn**
+**LinkedIn**
 
 https://linkedin.com/in/afnan-ahmed-36ba4a264
 
-🐙 **GitHub**
+**GitHub**
 
 https://github.com/afnan678
 
 ---
 
-# 🌱 Currently Exploring
+# Currently Exploring
 
 - Swift Concurrency
 - AI Integrations
@@ -266,4 +266,4 @@ https://github.com/afnan678
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+If you like my work, consider giving a star to my repositories!
