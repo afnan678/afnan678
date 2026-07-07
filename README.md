@@ -139,7 +139,7 @@ https://apps.apple.com/us/app/emiratesev/id6755527523
 
 ---
 
-## 📄 PDF Scanner : Text to Speech
+## PDF Scanner : Text to Speech
 
 AI-powered PDF reader with Text-to-Speech support built using SwiftUI.
 
@@ -147,7 +147,7 @@ https://apps.apple.com/us/app/pdf-scanner-text-to-speech/id6747193594
 
 ---
 
-## 🤖 Habinote
+## Habinote
 
 AI-powered habit tracking application.
 
@@ -162,7 +162,7 @@ https://apps.apple.com/us/app/habit-tracker-habinote/id6781785566
 
 ---
 
-## 💪 PrimeFit
+## PrimeFit
 
 AI Fitness & Habit Coach.
 
@@ -178,7 +178,7 @@ https://apps.apple.com/us/app/primefit-habits-weight-loss/id6759244969
 
 ---
 
-## 👗 Pickle
+## Pickle
 
 React Native Fashion Rental Marketplace.
 
