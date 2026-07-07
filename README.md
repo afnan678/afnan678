@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afnan Ahmed</h1>
 
 <p align="center">
-  <b>🍎 iOS Developer • SwiftUI • UIKit • macOS • AI Applications</b>
+  <b> iOS Developer • SwiftUI • UIKit • macOS • AI Applications</b>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I've contributed to multiple live App Store applications across smart locks, EV 
 
 # 💼 Professional Experience
 
-## 🍎 iOS Developer
+##  iOS Developer
 **AALA IT Solutions**
 
 **January 2024 – Present**
@@ -47,7 +47,7 @@ I've contributed to multiple live App Store applications across smart locks, EV 
 
 ---
 
-## 🍎 iOS Developer Intern
+##  iOS Developer Intern
 
 **Hazel Mobile**
 
