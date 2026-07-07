@@ -1,87 +1,225 @@
 <h1 align="center">Hi 👋, I'm Afnan Ahmed</h1>
 
-<h3 align="center">
-📱 iOS Developer | SwiftUI | UIKit | React Native
-</h3>
+<p align="center">
+  <b>🍎 iOS Developer • SwiftUI • UIKit • macOS • AI Applications</b>
+</p>
 
 <p align="center">
-I have 3+ years of experience building modern, scalable and user-friendly iOS applications using Swift, SwiftUI and UIKit. I enjoy creating clean UI, smooth user experiences, and writing maintainable code.
+Building scalable, high-performance iOS & macOS applications with 3+ years of professional experience.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=iOS+Developer;SwiftUI+Developer;UIKit+Developer;macOS+Developer;AI+Application+Developer;Building+Apps+for+Millions+of+Users" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 📱 3+ Years of Professional iOS Development Experience
-- 💙 Swift & SwiftUI Enthusiast
-- 🧩 Strong knowledge of UIKit & MVC/MVVM
-- 🔥 Experience with REST APIs & Firebase
-- 💳 Payment Integrations (Stripe, In-App Purchases)
-- 📍 Google Maps & MapKit
-- 📡 Push Notifications
-- 🔐 Authentication & Social Login
-- ☁️ Git, GitHub & CI/CD
-- 🌱 Currently learning advanced SwiftUI architecture and backend integrations.
+I'm a passionate **iOS Developer** with **3+ years of experience** building production-ready applications using **Swift, SwiftUI, UIKit and macOS technologies**.
+
+I specialize in creating scalable architectures, modern user interfaces, AI-powered experiences, Bluetooth integrations, PDF processing, and high-performance native Apple applications.
+
+I've contributed to multiple live App Store applications across smart locks, EV charging, AI productivity, PDF utilities, fitness, and fashion rental platforms.
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Professional Experience
 
-### Languages
+## 🍎 iOS Developer
+**AALA IT Solutions**
 
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+**January 2024 – Present**
 
-### iOS
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-### Backend & Services
-
+- SwiftUI
+- UIKit
+- SwiftData
+- CoreData
+- macOS Development
+- Vision Framework
+- ML Kit
+- Natural Language
 - REST APIs
 - Firebase
 - Supabase
-- Stripe
-- Push Notifications
+- Bluetooth
+- Performance Optimization
+
+---
+
+## 🍎 iOS Developer Intern
+
+**Hazel Mobile**
+
+September 2023 – October 2023
+
+Worked on production iOS applications using Swift while collaborating with cross-functional teams and following Apple's development best practices.
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+- Swift
+- JavaScript
+- Kotlin
+
+### Apple Development
+
+- SwiftUI
+- UIKit
+- Xcode
+- SwiftData
+- CoreData
+- Vision Framework
+- Natural Language
+- Bluetooth
+- In-App Purchases
+- Localization
+
+### Backend
+
+- REST APIs
+- Firebase
+- Firebase Analytics
+- Crashlytics
+- Supabase
+- SQLite
+
+### Architecture
+
+- MVC
+- MVVM
+
+### Tools
+
+- Git
+- GitHub
+- AdMob
+- ML Kit
+- Shell Scripts
+- Cursor
+- Claude
+- Codex
+
+---
+
+# 📱 Live Projects
+
+## 🔑 5DKey
+
+Bluetooth-based smart access solution allowing users to unlock secure doors using encrypted digital credentials.
+
+📱 https://apps.apple.com/us/app/5dkey/id6463869995
+
+---
+
+## 🔐 Verroo
+
+Cloud-free Bluetooth smart lock application with secure digital key sharing and encrypted access management.
+
+📱 https://apps.apple.com/us/app/verroo/id1448896600
+
+---
+
+## ⚡ EmiratesEV
+
+Bilingual EV Charging & Marketplace application built using SwiftUI.
+
+Features
+
+- Charging Stations
 - Google Maps
-- MapKit
+- Arabic / English
+- Marketplace
+- User Profiles
 
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📱 Featured Projects
-
-### 🚗 Car Rental App
-Modern iOS application for booking rental vehicles with authentication, payments and location services.
-
-### 👗 Fashion Rental Marketplace
-Peer-to-peer fashion rental application built for a modern shopping experience.
-
-### 💬 Chat Application
-Real-time messaging app using Firebase with push notifications.
-
-### 🛒 E-Commerce App
-Shopping application with Stripe payment integration and order management.
+📱 https://apps.apple.com/us/app/emiratesev/id6755527523
 
 ---
 
-## 📊 GitHub Stats
+## 📄 PDF Scanner : Text to Speech
+
+AI-powered PDF reader with Text-to-Speech support built using SwiftUI.
+
+📱 https://apps.apple.com/us/app/pdf-scanner-text-to-speech/id6747193594
+
+---
+
+## 🤖 Habinote
+
+AI-powered habit tracking application.
+
+Features
+
+- Daily Streaks
+- AI Insights
+- Analytics
+- Progress Tracking
+
+📱 https://apps.apple.com/us/app/habit-tracker-habinote/id6781785566
+
+---
+
+## 💪 PrimeFit
+
+AI Fitness & Habit Coach.
+
+Features
+
+- Calories
+- Water Intake
+- Nutrition
+- Sleep
+- AI Coach
+
+📱 https://apps.apple.com/us/app/primefit-habits-weight-loss/id6759244969
+
+---
+
+## 👗 Pickle
+
+React Native Fashion Rental Marketplace.
+
+Features
+
+- Peer-to-Peer Rentals
+- Same-Day Delivery
+- Sustainable Fashion
+
+📱 https://apps.apple.com/us/app/pickle-rent-lend-fashion/id1551736097
+
+---
+
+# 💻 macOS Experience
+
+## Testable
+
+Developed macOS functionality using
+
+- Swift
+- SwiftUI
+- Command Line Tools
+- Shell Scripts
+
+🌍 https://www.testable.io
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afnan678&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afnan678&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan678&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan678&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -91,16 +229,41 @@ Shopping application with Stripe payment integration and order management.
 
 ---
 
-## 🌍 Connect With Me
+# 🏆 GitHub Trophies
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=afnan678&theme=tokyonight&row=1&column=7"/>
+
+</p>
 
 ---
 
-## 💡 Fun Fact
+# 📫 Connect With Me
 
-> I enjoy transforming complex ideas into beautiful and intuitive iOS applications with clean architecture and smooth user experience.
+📧 **Email**
 
-⭐ Thanks for visiting my profile!
+malikafnanahmed678@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/afnan-ahmed-36ba4a264
+
+🐙 **GitHub**
+
+https://github.com/afnan678
+
+---
+
+# 🌱 Currently Exploring
+
+- Swift Concurrency
+- AI Integrations
+- Apple Intelligence
+- Advanced SwiftUI
+- Clean Architecture
+- Performance Optimization
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
